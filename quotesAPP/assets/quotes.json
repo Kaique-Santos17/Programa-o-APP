@@ -1,0 +1,22 @@
+[
+  {
+    "quote": "A vida é como andar de bicicleta. Para manter o equilíbrio, você deve continuar se movendo.",
+    "author": "Albert Einstein",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Albert_Einstein_Head.jpg"
+  },
+  {
+    "quote": "A inovação distingue entre um líder e um seguidor.",
+    "author": "Steve Jobs",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/Steve_Jobs_Headshot_2010-CROP.jpg"
+  },
+  {
+    "quote": "O sucesso não é o final, o fracasso não é fatal: é a coragem de continuar que conta.",
+    "author": "Winston Churchill",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Sir_Winston_Churchill_-_19086236948.jpg"
+  },
+  {
+    "quote": "Eu não falhei. Só descobri 10 mil maneiras que não funcionam.",
+    "author": "Thomas Edison",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Thomas_Edison2.jpg"
+  }
+]
